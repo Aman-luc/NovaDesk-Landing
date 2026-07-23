@@ -2,7 +2,7 @@
 built using HTML, CSS and JavaScript.
 
 ## 🚀 Live Demo
-(Link)
+https://aman-luc.github.io/NovaDesk-Landing/
 
 ## 📸 Preview
 (Image)
