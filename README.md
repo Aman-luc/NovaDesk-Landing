@@ -1,22 +1,41 @@
-# NovaDesk-Landing
-built using HTML, CSS and JavaScript.
+# 💻 NovaDesk Landing
 
-## 🚀 Live Demo
+A premium SaaS landing page built using HTML, CSS and JavaScript.
+
+NovaDesk Landing is designed as a modern product landing page inspired by today's SaaS websites. The focus was on clean layouts, visual hierarchy and responsive design.
+
+## Live Demo
+
 https://aman-luc.github.io/NovaDesk-Landing/
 
-## 📸 Preview
-(Image)
+## Features
 
-## ✨ Features
-- Login
-- Register
-- Forgot Password
-- OTP Verification
-- Reset Password
-- Success Page
-- 404 Page
+- Hero Section
+- Product Features
+- Pricing Section
+- Testimonials
+- FAQ Section
+- Responsive Layout
+- Modern UI
+- Smooth Navigation
 
-## 🛠 Tech Stack
+## Tech Stack
+
 - HTML5
 - CSS3
 - JavaScript
+
+## Project Goal
+
+The purpose of this project was to practice building high-quality SaaS landing pages with a strong emphasis on user experience and frontend design.
+
+## Preview
+
+(Add Screenshot)
+
+## Author
+
+Aman Kumar
+
+GitHub:
+https://github.com/Aman-luc
