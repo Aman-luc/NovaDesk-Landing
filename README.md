@@ -31,7 +31,31 @@ The purpose of this project was to practice building high-quality SaaS landing p
 
 ## Preview
 
-(Add Screenshot)
+## 📸 Preview
+
+### Hero Section
+
+![Hero](Assets/Hero.png)
+
+### Features
+
+![Features](Assets/Features.png)
+
+### WorkFlow
+
+![WorkFlow](Assets/Workflow.png)
+
+### Pricing
+
+![Pricing](Assets/Pricing.png)
+
+### FAQ
+
+![FAQ](Assets/FAQ.png)
+
+### Footer
+
+![Footer](Assets/Footer.png)
 
 ## Author
 
